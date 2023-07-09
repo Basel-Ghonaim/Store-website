@@ -956,6 +956,14 @@ textarea.controlForm{
     color: #eb5d1e;
 }
 
+
+/**/
+
+.iconFooter {
+    display: flex;
+    align-items: center;
+}
+
 /* 
 ------------------------------------------------------
 ********************  MEDIA QUERY ********************
