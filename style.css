@@ -418,7 +418,9 @@ Start Portfolio Section
     left: 0;
     right: 0;
     top: calc(50% - 32px);
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     z-index: 3;
     position: absolute;
     transition: all ease-in-out 0.3s;
@@ -435,7 +437,9 @@ Start Portfolio Section
     text-align: center;
     width: 32px;
     height: 32px;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center:
     transition: 0.3s;
 }
 .portfolio .portContainer .portItem .portLink a:hover{
