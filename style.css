@@ -439,7 +439,7 @@ Start Portfolio Section
     height: 32px;
     display: flex;
     justify-content: center;
-    align-items: center:
+    align-items: center;
     transition: 0.3s;
 }
 .portfolio .portContainer .portItem .portLink a:hover{
